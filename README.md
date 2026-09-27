@@ -8,7 +8,7 @@ This page is my personal learning space - a place to learn, build, make mistakes
 Here, you will find self-initiated projects, experiments, algorithmic exercises, and various other things I've created along the way.
 
 Since this is a space for my own self-study rather than a formal knowledge resource, there may be mistakes or gaps along the way. I would greatly appreciate any feedback or suggestions from you. 
----
+
 ## 🧭 What I'm learning
 I'm currently building my foundation in:
 - 💻 Programming & Software Engineering
