@@ -68,6 +68,7 @@ Git | GitHub | VS Code | Google Colab
 ---
 ## ✈️ What's next?
 I'm continuing to strengthen my programming fundamentals and explore new areas through self-learning and hands on projects
+
 ---
 ## 📩 Contact
 - GitHub: [GitHub](https://github.com/lahuynne)
