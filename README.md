@@ -21,30 +21,50 @@ I'm currently building my foundation in:
 These are some of the projects and products I've built while learning and experimenting with different areas of Mathematics and Informatics.
 ### 📊 Spotify Review Analysis
 An exploratory data analysis and machine learning project where I worked with data preprocessing, feature engineering and classification models.
-**Tools:** Python • Pandas • scikit-learn
+
+**Tools:** Python | Pandas | scikit-learn
+
 → [View Project](#)
+
 ---
 ### 👁️ Computer Vision with OpenCV
 A compilation of OpenCV lessons from class, rewritten from my own perspective (covering concepts, common errors and key takeaways)
-**Tools:** Python • OpenCV • NumPy • Matplotlib
+
+**Tools:** Python | OpenCV | NumPy | Matplotlib
+
 → [View Project](#) 
+
 ---
 ### 🧠 Data Structures & Algorithms
 A collection of algorithms and problem-solving exercises that I implement while strengthening my programming fundamentals.
+
 **Tools:** Python
+
 → [View Repository](#)
+
 ---
 ## Skills & Tools 
+
 **Programming**
-Python • Java
+
+Python | Java
+
 **Data & Machine Learning**
-NumPy • Pandas • Matplotlib • scikit-learn
+
+NumPy | Pandas | Matplotlib | scikit-learn
+
 **Computer Vision**
+
 OpenCV
+
 **Deep Learning**
+
 PyTorch
+
 **Development Tools**
-Git • GitHub • VS Code • Google Colab
+
+Git | GitHub | VS Code | Google Colab
+
 ---
 ## What's next?
 I'm continuing to strengthen my programming fundamentals and explore new areas through self-learning and hands on projects
