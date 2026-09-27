@@ -43,33 +43,33 @@ A collection of algorithms and problem-solving exercises that I implement while 
 → [View Repository](#)
 
 ---
-## Skills & Tools 
+## ⚙️ Skills & Tools 
 
-**Programming**
+💻**Programming**
 
 Python | Java
 
-**Data & Machine Learning**
+🤖**Data & Machine Learning**
 
 NumPy | Pandas | Matplotlib | scikit-learn
 
-**Computer Vision**
+👁️**Computer Vision**
 
 OpenCV
 
-**Deep Learning**
+🧠**Deep Learning**
 
 PyTorch
 
-**Development Tools**
+🕹️**Development Tools**
 
 Git | GitHub | VS Code | Google Colab
 
 ---
-## What's next?
+## ✈️ What's next?
 I'm continuing to strengthen my programming fundamentals and explore new areas through self-learning and hands on projects
 ---
-## Contact
+## 📩 Contact
 - GitHub: [GitHub](https://github.com/lahuynne)
 - Email: [email](huyenpham15022005@gmail.com)
 
